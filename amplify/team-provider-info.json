@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "group233b10f0a": {}
+      },
+      "api": {
+        "group2": {}
+      },
+      "storage": {
+        "s3d7e4133d": {}
       }
     }
   }
